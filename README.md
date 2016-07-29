@@ -1,6 +1,9 @@
 # Android-App-for-eBay-Search
-Android App for eBay Item Search Application.
-This is an academic project for course CSCI571- Web Technologies
+Developed nn Android application that allows users to search items sold on eBay.
+
+1. Developed an Android application for item searching on eBay.com.
+2. Developed a back-end server script for data retrieving and processing using PHP, XML, JSON
+3. Get experience in AWS, jQuery UI , Facebook developer API and Android development.
 
 Video URL: https://youtu.be/Xshjuz1zyCg
 
