@@ -1,9 +1,11 @@
 # Android-App-for-eBay-Search
 Developed nn Android application that allows users to search items sold on eBay.
 
-1. Developed an Android application for item searching on eBay.com.
-2. Developed a back-end server script for data retrieving and processing using PHP, XML, JSON
-3. Got experience in AWS, jQuery UI , Facebook developer API and Android development.
+Developed an Android application for item searching on eBay.com.
+
+Search form is validated after which the a request is made to the PHP script loaded on AWS account which contains the JSON data.
+
+Facebook share feature was implemented for users to post item details on their facebook pages. 
 
 Video URL: https://youtu.be/Xshjuz1zyCg
 
